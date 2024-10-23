@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sprakash90/DataS/MLops/MLops_Project/notebooks/mlruns/0/a4543418f927480b809a2e20c9a2a880/artifacts
+end_time: 1729677113414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4543418f927480b809a2e20c9a2a880
+run_name: intrigued-croc-903
+run_uuid: a4543418f927480b809a2e20c9a2a880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729677113061
+status: 4
+tags: []
+user_id: sprakash90

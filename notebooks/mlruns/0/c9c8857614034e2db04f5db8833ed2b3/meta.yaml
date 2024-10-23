@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sprakash90/DataS/MLops/MLops_Project/notebooks/mlruns/0/c9c8857614034e2db04f5db8833ed2b3/artifacts
+end_time: 1729677543366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9c8857614034e2db04f5db8833ed2b3
+run_name: classy-pug-515
+run_uuid: c9c8857614034e2db04f5db8833ed2b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729677525431
+status: 3
+tags: []
+user_id: sprakash90

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sprakash90/DataS/MLops/MLops_Project/notebooks/mlruns/0/a723fe8e2b3b4efab5590e3aa1606f36/artifacts
+end_time: 1729677500924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a723fe8e2b3b4efab5590e3aa1606f36
+run_name: nervous-lamb-740
+run_uuid: a723fe8e2b3b4efab5590e3aa1606f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729677500724
+status: 4
+tags: []
+user_id: sprakash90
